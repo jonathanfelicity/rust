@@ -1,0 +1,32 @@
+# Rust artifacts
+/target/
+
+# Cargo.lock file
+Cargo.lock
+
+# Compiled binaries
+**/target/release/
+**/target/debug/
+
+# Generated documentation
+**/target/doc/
+
+# Build artifacts
+**/target/*.rlib
+**/target/*.rmeta
+**/target/*.rmeta.orig
+
+# Editor-specific files
+**/*.rs.bk
+**/*.swp
+**/*.swo
+**/*.swx
+**/*.tmp
+**/*.bak
+**/*.bk
+**/*.d
+**/.idea/
+**/.vscode/
+
+# Miscellaneous
+/.rustfmt.toml
