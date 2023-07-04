@@ -30,3 +30,8 @@ Cargo.lock
 
 # Miscellaneous
 /.rustfmt.toml
+
+
+# Added by cargo
+
+/target
